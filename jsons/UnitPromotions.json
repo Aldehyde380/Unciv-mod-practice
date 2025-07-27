@@ -2,7 +2,7 @@
 
 	{
 		"name": "Heal Instantly",
-		"uniques": ["Heal this unit by [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
+		"uniques": ["[This unit] heals [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
 		"unitTypes": ["Melee","Mounted","Scout","Siege","Ranged","Melee Water","Ranged Water"]
 	},
 	
@@ -331,7 +331,7 @@
 	},
 		{
 		"name": "Hero", // Heroic Epic
-		"uniques": ["Hero","Damage is ignored when determining unit Strength"]
+		"uniques": ["Hero","No damage penalty for wounded units"]
 	},
 	{
 		"name": "Rejuvenation", // only for Units that have been close to Natural Wonder Fountain of Youth
