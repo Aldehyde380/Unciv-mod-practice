@@ -24,7 +24,6 @@
 		"cost": 20
 	},
 
-	// Hero Units
 	{
 		"name": "Sludge Atou",
 		"unitType": "Hero" 
