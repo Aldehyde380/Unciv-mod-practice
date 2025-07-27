@@ -31,9 +31,9 @@
 		"movement": 2,
 		"strength": 10,
 		"promotions": ["Hero"],
-		"uniques": ["Consumes [1] [Special]", "Unbuildable", "Gain [1] Strength <upon turn start>", "Withdraws before melee combat", 
+		"uniques": ["Consumes [1] [Special]", "Unbuildable", "Gain [+10]% Strength <upon turn start>", "Withdraws before melee combat", 
 			"Can move after attacking", "Unit will heal every turn, even if it performs an action", "Heals [5] damage if it kills a unit",
-			"Triggers a global alert <upon being defeated>"],
+			"Triggers a global alert upon being defeated"],
 	},
 
 ]
