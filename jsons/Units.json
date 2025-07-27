@@ -26,7 +26,7 @@
 
 	{
 		"name": "Sludge Atou",
-		"unitType": "Hero" 
+		"unitType": "Melee" 
 		"uniqueTo": "Mynoghra" 
 		"movement": 2,
 		"strength": 10,
