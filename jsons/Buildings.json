@@ -60,7 +60,7 @@
 		"uniques": ["Hero Spawner","[-15]% Production when constructing [Hero Spawner] wonders [in all cities]","[-2 Culture] <after adopting [Constitution]>","Free [Sludge Atou] appears", "Unsellable", "Provides [1] [Special]", 
 				"Only available <if [Mynoghra] is constructed>"],
 	},
-		{
+	{
 		"name": "Gleeful Spin Dr. Vittorio",
 		"isWonder": true,
 		"cost": 140,
