@@ -2,7 +2,7 @@
 	{
 		"name": "Phasers",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Mynoghra",
 		"replaces": "Machine Gun",
 		"movement": 2,
 		"strength": 90,
@@ -13,5 +13,14 @@
 		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
+	},
+	{
+		"name": "Long-legged Bug",
+		"unitType": "Scout",
+		"uniqueTo": "Mynoghra",
+		"replaces": "Scout",
+		"movement": 2
+		"strength": 7
+		"cost": 20
 	}
 ]
