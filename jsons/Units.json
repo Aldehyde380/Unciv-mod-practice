@@ -17,10 +17,24 @@
 	{
 		"name": "Long-legged Bug",
 		"unitType": "Scout",
-		"uniqueTo": "Mynoghra",
+		"uniqueTo": "Mynoghra", 
 		"replaces": "Scout",
 		"movement": 2
 		"strength": 7
 		"cost": 20
-	}
+	},
+
+	// Hero Units
+	{
+		"name": "Sludge Atou",
+		"unitType": "Hero" 
+		"uniqueTo": "Mynoghra" 
+		"movement": 2,
+		"strength": 10,
+		"promotions": ["Hero"],
+		"uniques": ["Consumes [1] [Special]", "Unbuildable", "Gain [1] [strength] <upon turn start>", "Withdraws before melee combat", 
+			"Can move after attacking", "Unit will heal every turn, even if it performs an action", "Heals [5] damage if it kills a unit",
+			"Triggers a global alert <upon being defeated>". 
+
+	},
 ]
