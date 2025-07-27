@@ -21,5 +21,49 @@
 		"happiness": 2,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering"
-	}
+	},
+	
+	// Alignment 
+	{
+		"name": "Good",
+		"isNationalWonder": true,
+		"gold": 0,
+		"uniques": ["[-2 Culture] <after adopting [Constitution]>","Unbuildable"],
+	},
+	{
+		"name": "Evil",
+		"isNationalWonder": true,
+		"gold": 0,
+		"uniques": ["[-2 Culture] <after adopting [Constitution]>","Unbuildable"],
+	},
+	// Nation Specific Wonders
+	{
+		"name": "Mynoghra",
+		"isNationalWonder": true,
+		"gold": 0,
+		"uniques": ["Unbuildable"],
+	},
+
+	// Hero Wonders 
+	{
+		"name": "Sludge Atou",
+		"isWonder": true,
+		"cost": 170,
+		"uniques": ["Hero Spawner","[-15]% Production when constructing [Hero Spawner] wonders [in all cities]","[-2 Culture] <after adopting [Constitution]>","Free [Sludge Atou] appears", "Unsellable", "Provides [1] [Special]", 
+				"Only available <if [Mynoghra] is constructed>"],
+	},
+		{
+		"name": "Isla, Insect Queen",
+		"isWonder": true,
+		"cost": 175,
+		"uniques": ["Hero Spawner","[-15]% Production when constructing [Hero Spawner] wonders [in all cities]","[-2 Culture] <after adopting [Constitution]>","Free [Sludge Atou] appears", "Unsellable", "Provides [1] [Special]", 
+				"Only available <if [Mynoghra] is constructed>"],
+	},
+		{
+		"name": "Gleeful Spin Dr. Vittorio",
+		"isWonder": true,
+		"cost": 140,
+		"uniques": ["Hero Spawner","[-15]% Production when constructing [Hero Spawner] wonders [in all cities]","[-2 Culture] <after adopting [Constitution]>","Free [Sludge Atou] appears", "Unsellable", "Provides [1] [Special]", 
+				"Only available <if [Mynoghra] is constructed>"],
+	},
 ]
