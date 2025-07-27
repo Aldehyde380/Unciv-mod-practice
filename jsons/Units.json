@@ -36,5 +36,5 @@
 			"Can move after attacking", "Unit will heal every turn, even if it performs an action", "Heals [5] damage if it kills a unit",
 			"Triggers a global alert <upon being defeated>"
 
-		},
+	},
 ]
