@@ -1,8 +1,8 @@
 [
 	{
 		"name": "Mother Isla",
-		"uniques": ["[+15%] Strength"],
-		"unitTypes": ["Bug"]
+		"uniques": ["[+10]% Strength"],
+		"unitTypes": ["Bug"],
 	},
 	{
 		"name": "Heal Instantly",
