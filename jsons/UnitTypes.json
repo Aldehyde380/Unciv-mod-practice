@@ -67,4 +67,8 @@
         "name": "Political Hero",
         "movementType": "Land"
     },
+    {
+        "name": "Bug",
+        "movementType": "Land"
+    },
 ]
