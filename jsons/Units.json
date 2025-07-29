@@ -43,8 +43,8 @@
 		"strength": 18,
 		"promotions": ["Hero"],
 		"uniques": ["Consumes [1] [Special]", "Unbuildable", "[This Unit] gains [2] XP <upon turn start> <for [9999] turns>",
-			"Comment [Hero unit Isla, Queen of Insects has been defeated and removed from the game] <upon being defeated>", 
-			"[Bug] units gain the [Mother Isla] promotion <upon constructing [Summon Isla, Queen of Insects]"],
+			"Comment [Hero unit Isla, Insect Queen has been defeated and removed from the game] <upon being defeated>", 
+			"[Bug] units gain the [Mother Isla] promotion <upon constructing [Summon Isla, Insect Queen]"],
 	},
 	{
 		"name": "Gleeful Spin Dr. Vittorio",
@@ -56,7 +56,7 @@
 		"uniques": ["Consumes [1] [Special]", "Unbuildable", "[This Unit] gains [1] XP <upon turn start> <for [9999] turns>",
 			"Cannot attack", "Automation is a primary action", "Withdraws before melee combat", 
 			"May enter foreign tiles without open borders", "Will not be displayed in Civilopedia", "Shown while unbuildable",
-			"[+33%] Spread Relgion Strength", "Removes other religions when spreading religion", "Can Spread Religion", 
+			"[+33%] Spread Religion Strength", "Removes other religions when spreading religion", "Can Spread Religion", 
 			"Gain a free [Founder] belief", "Gain an extra spy", "[+20%] spy effectiveness [in foreign cities]"],
 			
 	},
