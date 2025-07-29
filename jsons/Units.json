@@ -44,7 +44,7 @@
 		"promotions": ["Hero"],
 		"uniques": ["Consumes [1] [Special]", "Unbuildable", "[This Unit] gains [2] XP <upon turn start> <for [9999] turns>",
 			"Comment [Hero unit Isla, Insect Queen has been defeated and removed from the game] <upon being defeated>", 
-			"[Bug] units gain the [Mother Isla] promotion <upon constructing [Summon Isla, Insect Queen]"],
+			"[Bug] units gain the [Mother Isla] promotion <upon constructing [Summon Isla, Insect Queen]>"],
 	},
 	{
 		"name": "Gleeful Spin Dr. Vittorio",
