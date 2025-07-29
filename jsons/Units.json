@@ -31,8 +31,8 @@
 		"movement": 2,
 		"strength": 10,
 		"promotions": ["Hero"],
-		"uniques": ["Consumes [1] [Special]", "Unbuildable", "[+10]% Strength <upon turn start> <for [9999] turns> <upon constructing [Summon Sludge Atou]>", "Withdraws before melee combat", 
-			"Can move after attacking", "Unit will heal every turn, even if it performs an action", "Heals [5] damage if it kills a unit",
+		"uniques": ["Consumes [1] [Special]", "Unbuildable", "[+2]% Strength <upon turn start> <for [9999] turns> <upon constructing [Summon Sludge Atou]>", 
+			"Can move after attacking", "Heals [5] damage if it kills a unit", "[This Unit] gains [1] XP <upon turn start> <for [9999] turns>",
 			"Comment [Hero unit Sludge Atou has been defeated and removed from the game] <upon being defeated>"],
 	},
 
