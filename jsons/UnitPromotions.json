@@ -1,5 +1,9 @@
 [
-
+	{
+		"name": "Mother Isla",
+		"uniques": ["[+15%] Strength"],
+		"unitTypes": ["Bug"]
+	},
 	{
 		"name": "Heal Instantly",
 		"uniques": ["[This Unit] heals [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
