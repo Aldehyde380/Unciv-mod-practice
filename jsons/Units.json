@@ -36,7 +36,7 @@
 			"Comment [Hero unit Sludge Atou has been defeated and removed from the game] <upon being defeated>"],
 	},
 	{
-		"name": "Isla, Queen of Insects",
+		"name": "Isla, Insect Queen",
 		"unitType": "Melee Hero" 
 		"uniqueTo": "Mynoghra" 
 		"movement": 1,
