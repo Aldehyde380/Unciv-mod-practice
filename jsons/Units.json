@@ -16,7 +16,7 @@
 	},
 	{
 		"name": "Long-legged Bug",
-		"unitType": "Scout",
+		"unitType": "Bug",
 		"uniqueTo": "Mynoghra", 
 		"replaces": "Scout",
 		"movement": 2
