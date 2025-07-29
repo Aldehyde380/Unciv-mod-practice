@@ -55,4 +55,16 @@
         "name": "Explosive",
         "movementType": "Land"
     },
+    {
+        "name": "Melee Hero",
+        "movementType": "Land"
+    },
+    {
+        "name": "Ranged Hero",
+        "movementType": "Land"
+    },
+    {
+        "name": "Political Hero",
+        "movementType": "Land"
+    },
 ]
