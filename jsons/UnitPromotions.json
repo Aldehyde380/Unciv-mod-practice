@@ -441,17 +441,6 @@
 		"uniques": ["Comment [Used for Prerequisites]"]
 	},
 	{
-		"name": "Eagle's Escort",
-		"prerequisites": ["Melee", "Hero"],
-		"uniques": [
-			"Only available <with [SpecialEagle]>",
-			"May Paradrop up to [3] tiles from inside friendly territory",
-			"Can pass through impassable tiles",
-			"Withdraws before melee combat <with [66]% chance> <when below [20] HP>"
-		],
-		"unitTypes": ["Melee", "Ranged", "Mounted", "Scout"]
-	},
-	{
 		"name": "Rejuvenation", // only for Units that have been close to Natural Wonder Fountain of Youth
 		"uniques": ["All healing effects doubled"]
 	},
