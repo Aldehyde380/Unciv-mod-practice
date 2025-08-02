@@ -335,7 +335,7 @@
 	},
 		{
 		"name": "Hero", // Heroic Epic
-		"uniques": ["Hero","No damage penalty for wounded units","[This Unit] gains [1] XP <upon turn start> <for [9999] turns>"]
+		"uniques": ["Hero","[This Unit] gains [1] XP <upon turn start> <for [9999] turns>"]
 	},
 	{
 		"name": "Rejuvenation", // only for Units that have been close to Natural Wonder Fountain of Youth
