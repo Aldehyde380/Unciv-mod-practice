@@ -434,7 +434,7 @@
 	},
 	{
 		"name": "Hero",
-		"uniques": ["Comment [Hero]","[This Unit] gains [1] XP <upon turn start> <for [9999] turns>"]
+		"uniques": ["Comment [Hero]",]
 	},
 	{
 		"name": "Melee",
