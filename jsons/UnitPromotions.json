@@ -434,7 +434,7 @@
 	},
 	{
 		"name": "Hero",
-		"uniques": ["Comment [Hero]",]
+		"uniques": ["Comment [Hero]","No damage penalty for wounded units"]
 	},
 	{
 		"name": "Melee",
