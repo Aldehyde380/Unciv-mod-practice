@@ -1,4 +1,20 @@
 [
+
+	{
+	"name": "Meo",
+	"unitType": "Sword",
+	"replaces": "Warrior",
+	"uniqueTo": "Mynoghra",
+	"movement": 5,
+	"strength": 10,
+	"cost": 1,
+	"hurryCostModifier": -90,
+	"promotions": ["Outmaneuver", "Galestorm Leap"],
+	"uniques": ["Ignores terrain cost", "[This Unit] gains [100] XP <upon turn end>", "May travel on Water tiles without embarking",
+		"[+5] Sight", "Can move immediately once bought", "Cannot attack <vs cities>", "[This Unit] gains the [Hellstride] status for [1] turn(s) <for [0] movement>",
+		"Gain [1000] [Gold] <upon turn end> <in [City center] tiles>",
+	],
+	},
 	{
 		"name": "Phasers",
 		"unitType": "Ranged",
