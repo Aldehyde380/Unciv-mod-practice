@@ -2,7 +2,7 @@
 
 	{
 	"name": "Meo",
-	"unitType": "Sword",
+	"unitType": "Melee",
 	"replaces": "Warrior",
 	"uniqueTo": "Mynoghra",
 	"movement": 5,
